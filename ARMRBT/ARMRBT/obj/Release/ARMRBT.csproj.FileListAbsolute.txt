@@ -1,0 +1,16 @@
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Release\ARMRBT.exe.config
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.csprojResolveAssemblyReference.cache
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.Authorization.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.DatabaseShow.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.EditForm.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.Menu.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.Properties.Resources.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.csproj.GenerateResource.Cache
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Release\ARMRBT.exe.manifest
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Release\ARMRBT.application
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Release\ARMRBT.exe
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Release\ARMRBT.pdb
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.exe.manifest
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.application
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.exe
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Release\ARMRBT.pdb

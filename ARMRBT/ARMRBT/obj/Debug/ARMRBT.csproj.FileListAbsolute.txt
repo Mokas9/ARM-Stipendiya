@@ -1,0 +1,231 @@
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Data.dll
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Web.dll
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+C:\Users\FStone\Desktop\Курсовая работа\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.dll
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Web.dll
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+C:\Users\FStone\Desktop\Курсовая работа (FINALLY)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.dll
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Web.dll
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+C:\Users\FStone\Desktop\Курсовая (FINALLY) (CLEAN)\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.dll
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.dll
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+C:\Users\FStone\Desktop\Курсовая 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.dll
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Web.dll
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+C:\Users\FStone\Desktop\Курс Максим 50% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.dll
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.dll
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+C:\Users\FStone\Desktop\Курс Максим 90%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+D:\All from C\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.dll
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.dll
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+C:\Users\FStone\Desktop\Курс Максим 99%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.dll
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Web.dll
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+C:\Users\FStone\Desktop\Курс Максим 99% - Copy\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+D:\All from C\Desktop\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.config
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.pdb
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.pdb
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.xml
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF5.xml
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\MySql.Web.xml
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csprojResolveAssemblyReference.cache
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.ARMRBT.exe.config
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Authorization.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.DatabaseShow.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.EditForm.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Menu.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.Properties.Resources.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.csproj.GenerateResource.Cache
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.exe.manifest
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\bin\Debug\ARMRBT.application
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.exe.manifest
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\(Курсовая 4 курс)\Проекты\Курс Максим 100%\ARMRBT\ARMRBT\obj\Debug\ARMRBT.application

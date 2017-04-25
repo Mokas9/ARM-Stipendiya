@@ -1,0 +1,3 @@
+SUCCESS (12/12/2016 5:32:44 PM) Подключение к бд
+
+hentication to host 'localhost' for user 'н46ог34' using method 'mysql_native_password' failed with message: Access denied for user 'н46ог34'@'localhost' (using password: YES)
